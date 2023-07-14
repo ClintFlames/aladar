@@ -1,0 +1,45 @@
+{
+	"name": "aladar",
+	"version": "1.0.0-alpha",
+	"description": "Aladar aka allies radar showing your allies on minimap.",
+	"scripts": {
+		"types": "cd node_modules/diepapi && npm run build",
+		"test": "clear && npx webpack --no-devtool"
+	},
+	"keywords": [
+		"diep.io",
+		"diep",
+		"io",
+		"clintflames",
+		"clint",
+		"flames",
+		"userscript",
+		"violentmonkey",
+		"tampermonkey"
+	],
+	"author": "ClintFlames",
+	"license": "MIT",
+	"dependencies": {
+		"css-loader": "6.7.3",
+		"style-loader": "3.3.1",
+		"svg-inline-loader": "0.8.2",
+		"terser-webpack-plugin": "^5.3.7",
+		"ts-loader": "9.4.2",
+		"webpack": "5.75.0",
+		"webpack-cli": "5.0.1"
+	},
+	"devDependencies": {
+		"typescript": "5.0.4",
+		"@types/node": "18.15.11",
+		"@violentmonkey/types": "0.1.5",
+		"diepapi": "github:Cazka/diepAPI#5b68c69090a745e0642e8eeaaaf0d5479a8a0b41"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ClintFlames/aladar.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ClintFlames/aladar/issues"
+	},
+	"homepage": "https://github.com/ClintFlames/aladar#readme"
+}

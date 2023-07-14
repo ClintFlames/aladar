@@ -1,0 +1,31 @@
+// ==UserScript==
+// @name       Aladar
+// @author     ClintFlames
+// @version    %VERSION%
+// @namespace  https://violentmonkey.github.io
+// @license    MIT
+
+// @description       Aladar aka allies radar showing your allies on minimap.
+// @description:ru-RU Aladar или же радар союзников - показывает ваших союзников на миникарте.
+// @icon 
+// @homepageURL https://github.com/ClintFlames/aladar
+// @supportURL  https://github.com/ClintFlames/aladar/issues
+
+// @match       https://diep.io/
+// @run-at      document-start
+// @inject-into page
+// @noframes
+
+// @require https://greasyfork.org/scripts/456843-diep-shortcut/code/diep_Shortcut.js?version=1144520
+// @require https://greasyfork.org/scripts/433681-diepapi/code/diepAPI.js?version=1129359
+
+// @grant GM.getValue
+// @grant GM.setValue
+// @grant GM.addValueChangeListener
+// @grant GM.registerMenuCommand
+// @grant GM.unregisterMenuCommand
+// ==/UserScript==
+
+// buildnum (base 36) %BUILDNUM%
+
+
