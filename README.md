@@ -4,7 +4,7 @@ Aladar is a diep.io userscript that allows you to see your allies wia [aladarSer
 
 
 ## How it works
-Clients connect to `aladarServer` using special code. The server synchronizes player positions between connected users. So yes, you will only see people who also use it.
+Clients connect to `aladarServer` using special code. The server synchronizes player positions between connected users. So yes, you will only see people who also use it.<br>
 <image src="./docs/screenshot0.png">
 <br>
 
