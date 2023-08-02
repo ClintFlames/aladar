@@ -8,4 +8,4 @@ Clients connect to `aladarServer` using special code. The server synchronizes pl
 <image src="./docs/screenshot0.png">
 <br>
 
-### [English Guide](./docs/Guide.md)/[Гайд на руссокм](./docs/Guide_ru.md).
+### [English Guide](./docs/Guide.md)/[Гайд на русском](./docs/Guide_ru.md).
